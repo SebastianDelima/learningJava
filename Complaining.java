@@ -1,7 +1,10 @@
 public class Complaining{
     
     public static void main(String[] args) {
-         System.out.println("hello world");
+
+        char n = 'n';
+
+         System.out.println(n);
     }
    
 }
