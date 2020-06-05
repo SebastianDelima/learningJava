@@ -4,6 +4,10 @@ public class Complaining{
     
     public static void main(String[] args) {
 
+        String name = "Sebastian";
+
+        
+
         double decimal = 24.27364678d;
 
         long hugeNumber = 23467822234622222L;
