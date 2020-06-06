@@ -6,10 +6,10 @@ public class Complaining{
 
         String name = "Sebastian";
         double decimal = 24.27364678d;
-        
-        String[] newArr = {name, "hello", "2"}
 
-        name;
+        String[] newArr = {name, "hello", "2"};
+
+ 
 
         long hugeNumber = 23467822234622222L;
 
@@ -30,5 +30,8 @@ public class Complaining{
          System.out.println(decimal);
          System.out.println(no);
     }
+
+    
+    
    
 }
