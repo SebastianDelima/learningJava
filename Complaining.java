@@ -5,10 +5,11 @@ public class Complaining{
     public static void main(String[] args) {
 
         String name = "Sebastian";
-
-        
-
         double decimal = 24.27364678d;
+        
+        String[] newArr = {name, "hello", "2"}
+
+        name;
 
         long hugeNumber = 23467822234622222L;
 
